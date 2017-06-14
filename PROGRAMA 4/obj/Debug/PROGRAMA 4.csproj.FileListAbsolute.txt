@@ -1,0 +1,10 @@
+E:\Executaveis liberados\PROGRAMA 4\PROGRAMA 4\bin\Debug\PROGRAMA 4.exe.config
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\bin\Debug\PROGRAMA 4.exe
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\bin\Debug\PROGRAMA 4.pdb
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\obj\Debug\PROGRAMA 4.csprojResolveAssemblyReference.cache
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\obj\Debug\PROGRAMA_4.Atividades.resources
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\obj\Debug\PROGRAMA_4.Form1.resources
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\obj\Debug\PROGRAMA_4.Properties.Resources.resources
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\obj\Debug\PROGRAMA 4.csproj.GenerateResource.Cache
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\obj\Debug\PROGRAMA 4.exe
+E:\Executaveis Liberados\PROGRAMA 4\PROGRAMA 4\obj\Debug\PROGRAMA 4.pdb
